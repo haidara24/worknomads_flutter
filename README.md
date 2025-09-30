@@ -7,17 +7,11 @@ A Flutter mobile application for managing uploads, authentication, and user inte
 ## Table of Contents
 
 - [Features](#features)  
-- [Project Structure](#project-structure)  
-- [Requirements](#requirements)  
-- [Getting Started](#getting-started)  
-- [Environment Variables](#environment-variables)  
+- [Project Structure](#project-structure)   
 - [API Endpoints](#api-endpoints)  
-- [Authentication](#authentication)  
-- [File Uploads](#file-uploads)  
-- [Dependencies](#dependencies)  
-- [Running the App](#running-the-app)  
-- [Notes](#notes)
+- [Authentication](#authentication)
 
+  
 ---
 
 ## Features
